@@ -37,11 +37,6 @@
 				<span class="section_title">手机</span>
 				<span class="section_subtitle">{{ phone }}</span>
 			</div>
-			<div class="section_content van-hairline--bottom">
-				<img src="@/assets/my/contact.png" class="icon" />
-				<span class="section_title">联系我们</span>
-				<a href="tel:0598-5170900" class="section_subtitle">0598-5170900</a>
-			</div>
 		</div>
 		<div class="submit">
 			<button @click="signOut">退出登陆</button>
